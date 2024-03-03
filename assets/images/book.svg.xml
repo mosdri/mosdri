@@ -1,0 +1,21 @@
+<svg width="100%" height="100%" viewBox="0 0 400 600">
+  <rect x="0" y="0" width="400" height="600" fill="#ccc" />
+  <rect x="50" y="50" width="300" height="500" fill="#fff" />
+  <text x="100" y="100" font-size="24px" font-weight="bold">عنوان الكتاب</text>
+  <text x="100" y="150" font-size="18px">مؤلف الكتاب</text>
+  <text x="50" y="200" font-size="16px" font-family="Arial, sans-serif">
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis leo leo, non ullamcorper risus. Nulla facilisi. Nullam id purus velit. Vivamus euismod tortor ac diam sollicitudin, eu ultricies nisi tincidunt. Donec ac neque eget arcu ultricies faucibus. Nulla facilisi. Sed vitae risus lacus. Praesent ac magna sed elit venenatis ullamcorper. Fusce sit amet magna vitae velit facilisis porta. Fusce elementum enim eu augue malesuada, sit amet hendrerit mi ultricies.
+
+    Donec aliquam risus eget tortor euismod, eget tristique risus hendrerit. Praesent vitae justo eu justo scelerisque laoreet. Suspendisse potenti. Maecenas at nisl eget odio hendrerit elementum. Fusce ut arcu velit. Maecenas ultrices lacus sit amet felis laoreet, sit amet ultricies mauris consequat. Nam sit amet nisl eu velit feugiat pulvinar.
+
+    Donec vehicula leo ac quam tincidunt, eget tincidunt risus hendrerit. Sed ultrices orci sit amet massa tincidunt, ac fringilla erat hendrerit. Maecenas ornare dui eu neque placerat, eget elementum massa ultrices. Nunc accumsan libero sed orci lacinia, sed aliquet diam ultrices.
+  </text>
+  <rect x="50" y="550" width="300" height="500" fill="#fff" />
+  <text x="50" y="600" font-size="16px" font-family="Arial, sans-serif">
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis leo leo, non ullamcorper risus. Nulla facilisi. Nullam id purus velit. Vivamus euismod tortor ac diam sollicitudin, eu ultricies nisi tincidunt. Donec ac neque eget arcu ultricies faucibus. Nulla facilisi. Sed vitae risus lacus. Praesent ac magna sed elit venenatis ullamcorper. Fusce sit amet magna vitae velit facilisis porta. Fusce elementum enim eu augue malesuada, sit amet hendrerit mi ultricies.
+
+    Donec aliquam risus eget tortor euismod, eget tristique risus hendrerit. Praesent vitae justo eu justo scelerisque laoreet. Suspendisse potenti. Maecenas at nisl eget odio hendrerit elementum. Fusce ut arcu velit. Maecenas ultrices lacus sit amet felis laoreet, sit amet ultricies mauris consequat. Nam sit amet nisl eu velit feugiat pulvinar.
+
+    Donec vehicula leo ac quam tincidunt, eget tincidunt risus hendrerit. Sed ultrices orci sit amet massa tincidunt, ac fringilla erat hendrerit. Maecenas ornare dui eu neque placerat, eget elementum massa ultrices. Nunc accumsan libero sed orci lacinia, sed aliquet diam ultrices.
+  </text>
+</svg>
